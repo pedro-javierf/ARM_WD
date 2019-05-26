@@ -5,6 +5,8 @@ ARM Eclipse Workspaces and Documents
 
 These are the workspaces, documents, and tools used to learn ARM(32) the first year at CS in Complutense University of Madrid. The Eclipse environment is quite old, only works on x32 Windows, but is great to start learning. Also includes an ARM simulator.
 
+All the documents are written in English.
+
 ## Why?
 
 As a way to preserve everything. I upload here the documents, tools, and scripts used. My lab solutions are not available since they could be copied and reused by future students to cheat.
